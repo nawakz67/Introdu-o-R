@@ -17,7 +17,7 @@ Os materiais estão organizados da seguinte forma:
 ```
 📦 cursoR
  ┣ 📂 slides        → material teórico
- ┣ 📂 atividades    → listas de exercícios
+ ┣ 📂 Exercício    → listas de exercícios
  ┣ 📂 dados         → bases de dados utilizadas
 ```
 
