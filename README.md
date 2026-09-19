@@ -22,9 +22,9 @@ Os materiais estão organizados da seguinte forma:
 ```
 
 * **Arquivos `.R`**: scripts utilizados em aula, organizados por número (aula01, aula02, etc.)
-* **Pasta `slides/`**: apresentações em PDF organizadas por módulo, contendo o conteúdo teórico do curso
+* **Pasta `Slides/`**: apresentações em PDF organizadas por módulo, contendo o conteúdo teórico do curso
 * **Pasta `Exercício/`**: listas de exercícios correspondentes a cada módulo
-* **Pasta `dados/`**: bases de dados utilizadas nos exemplos e exercícios, em formatos como .txt, .csv, .xlsx e .zip
+* **Pasta `Dados/`**: bases de dados utilizadas nos exemplos e exercícios, em formatos como .txt, .csv, .xlsx e .zip
 
 ## Objetivo do curso
 
