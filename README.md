@@ -42,8 +42,6 @@ O curso tem como objetivo desenvolver habilidades práticas em análise de dados
 
 * Introdução ao R, operações básicas e criação de objetos
 * Estruturas de dados e funções básicas
-* Importação e exportação de dados
-* Estruturas condicionais, de repetição e loops
 
 ### Módulo 2 - Manipulação de dados com tidyverse
 
