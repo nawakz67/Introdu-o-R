@@ -85,20 +85,6 @@ Pacotes utilizados ao longo do curso:
 install.packages("tidyverse")
 ```
 
-## Como utilizar este repositório
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/drewmelo/cursoR.git
-```
-
-2. Abra os scripts `.R` no RStudio
-
-3. Execute os códigos conforme as aulas
-
-4. Utilize os slides como apoio teórico
-
 ## Observações
 
 * Os scripts foram desenvolvidos para fins didáticos
