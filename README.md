@@ -16,9 +16,9 @@ Os materiais estão organizados da seguinte forma:
 
 ```
 📦 cursoR
- ┣ 📂 slides        → material teórico
+ ┣ 📂 Slides        → material teórico
  ┣ 📂 Exercício    → listas de exercícios
- ┣ 📂 dados         → bases de dados utilizadas
+ ┣ 📂 Dados         → bases de dados utilizadas
 ```
 
 * **Arquivos `.R`**: scripts utilizados em aula, organizados por número (aula01, aula02, etc.)
